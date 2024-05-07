@@ -1,4 +1,4 @@
 # Vedanter-1.0
-Program thet work with voice command in android
-first you have to install androidhelper module on your android divice
-Ti's recomded to use QPython app for run the code
+Welcome to our innovative Python project designed to harness the power of voice commands on Android devices! With the integration of the androidhelper module, our program offers seamless interaction through voice commands, opening up a world of possibilities for hands-free operation.
+
+To get started, simply install the androidhelper module on your Android device. We highly recommend utilizing the QPython app for executing the code effortlessly.
